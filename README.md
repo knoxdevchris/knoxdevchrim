@@ -1,9 +1,6 @@
 <h1 align="center">Hi, I'm Chris</h1>
 <h3 align="center">A passionate backend developer from Tennessee</h3>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=knoxdevchris" alt="knoxdevchris" /></a> </p>
-
 - 🔭 I’m currently working on [Ecommerce-StoreFront](https://github.com/knoxdevchris/Ecommerce-StoreFront)
 
 - 🌱 I’m currently learning **Java, MySQL, JavaScript, & React**
